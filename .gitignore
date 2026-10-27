@@ -1,3 +1,14 @@
 .aider*
 .env
+.env.*
+!.env.example
 .elm-agent-venv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.npm-cache/
+client/.npm-cache/
+client/dist/
+*.tsbuildinfo
